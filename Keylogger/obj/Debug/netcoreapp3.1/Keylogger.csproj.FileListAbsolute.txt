@@ -1,0 +1,13 @@
+C:\Users\Milász\source\repos\Keylogger\Keylogger\bin\Debug\netcoreapp3.1\Keylogger.exe
+C:\Users\Milász\source\repos\Keylogger\Keylogger\bin\Debug\netcoreapp3.1\Keylogger.deps.json
+C:\Users\Milász\source\repos\Keylogger\Keylogger\bin\Debug\netcoreapp3.1\Keylogger.runtimeconfig.json
+C:\Users\Milász\source\repos\Keylogger\Keylogger\bin\Debug\netcoreapp3.1\Keylogger.runtimeconfig.dev.json
+C:\Users\Milász\source\repos\Keylogger\Keylogger\bin\Debug\netcoreapp3.1\Keylogger.dll
+C:\Users\Milász\source\repos\Keylogger\Keylogger\bin\Debug\netcoreapp3.1\Keylogger.pdb
+C:\Users\Milász\source\repos\Keylogger\Keylogger\obj\Debug\netcoreapp3.1\Keylogger.csprojAssemblyReference.cache
+C:\Users\Milász\source\repos\Keylogger\Keylogger\obj\Debug\netcoreapp3.1\Keylogger.AssemblyInfoInputs.cache
+C:\Users\Milász\source\repos\Keylogger\Keylogger\obj\Debug\netcoreapp3.1\Keylogger.AssemblyInfo.cs
+C:\Users\Milász\source\repos\Keylogger\Keylogger\obj\Debug\netcoreapp3.1\Keylogger.csproj.CoreCompileInputs.cache
+C:\Users\Milász\source\repos\Keylogger\Keylogger\obj\Debug\netcoreapp3.1\Keylogger.dll
+C:\Users\Milász\source\repos\Keylogger\Keylogger\obj\Debug\netcoreapp3.1\Keylogger.pdb
+C:\Users\Milász\source\repos\Keylogger\Keylogger\obj\Debug\netcoreapp3.1\Keylogger.genruntimeconfig.cache
